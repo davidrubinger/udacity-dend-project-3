@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+dwh.cfg
+.DS_Store
+*.code-workspace
