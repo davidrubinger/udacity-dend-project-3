@@ -18,6 +18,7 @@ The project contains the following components:
 * `create_tables.py` creates the Sparkify star schema in Redshift
 * `etl.py` defines the ETL pipeline, extracting data from S3, loading into staging tables on Redshift, and then processing into analytics tables on Redshift
 * `sql_queries.py` defines the SQL queries that underpin the creation of the star schema and ETL pipeline
+* `exploratory_analytics.ipynb` allows you to more interactively execute the ETL and run queries
 
 ## Database Schema
 
